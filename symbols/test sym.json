@@ -1,0 +1,32 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "test unit",
+    "pins": {},
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "2f4869a9-7258-4723-867f-be45711fc025": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1250000,
+                    0
+                ]
+            },
+            "size": 1500000,
+            "text": "foo",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "f4323c39-2d83-45a8-bb26-a4e5c89b6572",
+    "uuid": "71a0502c-8574-44bb-b75c-22029fad4491"
+}
