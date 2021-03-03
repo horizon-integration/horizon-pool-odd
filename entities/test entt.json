@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "199e35ad-5272-4349-8116-a6575a4617b9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f4323c39-2d83-45a8-bb26-a4e5c89b6572"
+        }
+    },
+    "manufacturer": "",
+    "name": "test entt",
+    "prefix": "X",
+    "tags": [
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "f22ab8c4-4130-481f-be30-75be4116b799"
+}
